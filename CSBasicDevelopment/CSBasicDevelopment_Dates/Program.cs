@@ -17,3 +17,13 @@ else
 {
     Console.WriteLine("La segunda fecha es menor");
 }
+
+// Imprimir fecha con formato
+DateTime fecha = new DateTime(1989, 11, 2, 11, 16, 16, 123);
+Console.WriteLine(fecha.ToString());
+Console.WriteLine(fecha.ToShortDateString());
+Console.WriteLine(fecha.ToLongDateString());
+Console.WriteLine(fecha.ToShortTimeString());
+Console.WriteLine(fecha.ToString("yyy-MM-ddThh:mm:ss.ms"));
+
+

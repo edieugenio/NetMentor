@@ -1,0 +1,14 @@
+C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelopment_Files\obj\Debug\net6.0\CSBasicDevelopment_Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelopment_Files\obj\Debug\net6.0\CSBasicDevelopment_Files.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelopment_Files\obj\Debug\net6.0\CSBasicDevelopment_Files.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelopment_Files\obj\Debug\net6.0\CSBasicDevelopment_Files.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelopment_Files\bin\Debug\net6.0\CSBasicDevelopment_Files.exe
+C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelopment_Files\bin\Debug\net6.0\CSBasicDevelopment_Files.deps.json
+C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelopment_Files\bin\Debug\net6.0\CSBasicDevelopment_Files.runtimeconfig.json
+C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelopment_Files\bin\Debug\net6.0\CSBasicDevelopment_Files.dll
+C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelopment_Files\bin\Debug\net6.0\CSBasicDevelopment_Files.pdb
+C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelopment_Files\obj\Debug\net6.0\CSBasicDevelopment_Files.dll
+C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelopment_Files\obj\Debug\net6.0\refint\CSBasicDevelopment_Files.dll
+C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelopment_Files\obj\Debug\net6.0\CSBasicDevelopment_Files.pdb
+C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelopment_Files\obj\Debug\net6.0\CSBasicDevelopment_Files.genruntimeconfig.cache
+C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelopment_Files\obj\Debug\net6.0\ref\CSBasicDevelopment_Files.dll

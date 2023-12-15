@@ -12,3 +12,17 @@ C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelop
 C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelopment_Dates\obj\Debug\net6.0\CSBasicDevelopment_Dates.pdb
 C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelopment_Dates\obj\Debug\net6.0\CSBasicDevelopment_Dates.genruntimeconfig.cache
 C:\Users\Eduardo\source\repos\NetMentorCourses\CSBasicDevelopment\CSBasicDevelopment_Dates\obj\Debug\net6.0\ref\CSBasicDevelopment_Dates.dll
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_Dates\bin\Debug\net6.0\CSBasicDevelopment_Dates.exe
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_Dates\bin\Debug\net6.0\CSBasicDevelopment_Dates.deps.json
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_Dates\bin\Debug\net6.0\CSBasicDevelopment_Dates.runtimeconfig.json
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_Dates\bin\Debug\net6.0\CSBasicDevelopment_Dates.dll
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_Dates\bin\Debug\net6.0\CSBasicDevelopment_Dates.pdb
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_Dates\obj\Debug\net6.0\CSBasicDevelopment_Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_Dates\obj\Debug\net6.0\CSBasicDevelopment_Dates.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_Dates\obj\Debug\net6.0\CSBasicDevelopment_Dates.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_Dates\obj\Debug\net6.0\CSBasicDevelopment_Dates.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_Dates\obj\Debug\net6.0\CSBasicDevelopment_Dates.dll
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_Dates\obj\Debug\net6.0\refint\CSBasicDevelopment_Dates.dll
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_Dates\obj\Debug\net6.0\CSBasicDevelopment_Dates.pdb
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_Dates\obj\Debug\net6.0\CSBasicDevelopment_Dates.genruntimeconfig.cache
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_Dates\obj\Debug\net6.0\ref\CSBasicDevelopment_Dates.dll

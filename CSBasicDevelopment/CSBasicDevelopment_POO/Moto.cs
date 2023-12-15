@@ -6,40 +6,36 @@ using System.Threading.Tasks;
 
 namespace CSBasicDevelopment_POO
 {
-    internal class Moto
+    internal class Moto : Vehiculo
     {
-        public decimal VelocidadMaxima { get; set; }
-        public int NumeroRuedas { get; set; }
-        public Motorista Piloto { get; set; }
-        public string Marca { get; set; }
-        public string Modelo { get; set; }
-
-        public Moto(decimal velocidadMaxima, int numeroRuedas)
-        {
-            VelocidadMaxima = velocidadMaxima;
-            NumeroRuedas = numeroRuedas;
+        public decimal Cilindrada { get; set; }
+        private Motorista piloto;
+        public Motorista Piloto 
+        { 
+            get
+            {
+                if (piloto == null)
+                    piloto = new Motorista();
+                return piloto;
+            }
+            set { }
         }
 
-        public Moto(string marca, string modelo)
+        public Moto(decimal velocidadMaxima, int numeroRuedas, decimal cilindrada) : base(velocidadMaxima, numeroRuedas)
         {
-            Marca = marca;
-            Modelo = modelo;
+            Cilindrada = cilindrada;
         }
 
-        public Moto()
+        public Moto(string marca, string modelo, decimal cilindrada) : base(marca, modelo)
         {
-            VelocidadMaxima = 320;
-            NumeroRuedas = 2;
+            Cilindrada = cilindrada;
         }
 
-        public void Acelerar()
+        public void HacerCaballito()
         {
-            // Codigo aquí
+            // codigo
         }
 
-        public void Arrancar()
-        {
-            // Codigo aquí
-        }
+
     }
 }

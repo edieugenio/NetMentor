@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eduardo\\source\\repos\\NetMentorCourses\\CSBasicDevelopment\\CSBasicDevelopment_Files\\CSBasicDevelopment_Files.csproj": {}
+    "C:\\Users\\Eduardo\\source\\repos\\NetMentor\\CSBasicDevelopment\\CSBasicDevelopment_Files\\CSBasicDevelopment_Files.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eduardo\\source\\repos\\NetMentorCourses\\CSBasicDevelopment\\CSBasicDevelopment_Files\\CSBasicDevelopment_Files.csproj": {
+    "C:\\Users\\Eduardo\\source\\repos\\NetMentor\\CSBasicDevelopment\\CSBasicDevelopment_Files\\CSBasicDevelopment_Files.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eduardo\\source\\repos\\NetMentorCourses\\CSBasicDevelopment\\CSBasicDevelopment_Files\\CSBasicDevelopment_Files.csproj",
+        "projectUniqueName": "C:\\Users\\Eduardo\\source\\repos\\NetMentor\\CSBasicDevelopment\\CSBasicDevelopment_Files\\CSBasicDevelopment_Files.csproj",
         "projectName": "CSBasicDevelopment_Files",
-        "projectPath": "C:\\Users\\Eduardo\\source\\repos\\NetMentorCourses\\CSBasicDevelopment\\CSBasicDevelopment_Files\\CSBasicDevelopment_Files.csproj",
+        "projectPath": "C:\\Users\\Eduardo\\source\\repos\\NetMentor\\CSBasicDevelopment\\CSBasicDevelopment_Files\\CSBasicDevelopment_Files.csproj",
         "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eduardo\\source\\repos\\NetMentorCourses\\CSBasicDevelopment\\CSBasicDevelopment_Files\\obj\\",
+        "outputPath": "C:\\Users\\Eduardo\\source\\repos\\NetMentor\\CSBasicDevelopment\\CSBasicDevelopment_Files\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",

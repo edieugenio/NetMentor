@@ -1,0 +1,14 @@
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_POO\bin\Debug\net6.0\CSBasicDevelopment_POO.exe
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_POO\bin\Debug\net6.0\CSBasicDevelopment_POO.deps.json
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_POO\bin\Debug\net6.0\CSBasicDevelopment_POO.runtimeconfig.json
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_POO\bin\Debug\net6.0\CSBasicDevelopment_POO.dll
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_POO\bin\Debug\net6.0\CSBasicDevelopment_POO.pdb
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_POO\obj\Debug\net6.0\CSBasicDevelopment_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_POO\obj\Debug\net6.0\CSBasicDevelopment_POO.AssemblyInfoInputs.cache
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_POO\obj\Debug\net6.0\CSBasicDevelopment_POO.AssemblyInfo.cs
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_POO\obj\Debug\net6.0\CSBasicDevelopment_POO.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_POO\obj\Debug\net6.0\CSBasicDevelopment_POO.dll
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_POO\obj\Debug\net6.0\refint\CSBasicDevelopment_POO.dll
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_POO\obj\Debug\net6.0\CSBasicDevelopment_POO.pdb
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_POO\obj\Debug\net6.0\CSBasicDevelopment_POO.genruntimeconfig.cache
+C:\Users\Eduardo\source\repos\NetMentor\CSBasicDevelopment\CSBasicDevelopment_POO\obj\Debug\net6.0\ref\CSBasicDevelopment_POO.dll
